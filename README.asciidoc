@@ -1,6 +1,9 @@
 A simple Java EE 7 Sample
 =========================
 
+*11
+*22
+
 This is a trivial Java EE 7 sample.
 
 . Download WildFly 8.2 from
